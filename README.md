@@ -49,12 +49,12 @@
     <tr>
       <td><b>E-Commerce Store</b></td>
       <td>React · Redux · API</td>
-      <td>—</td>
+      <td><a href="https://countries-nu-five.vercel.app/">Visit</a></td>
     </tr>
     <tr>
       <td><b>Dashboard App</b></td>
       <td>React · Charts · Auth</td>
-      <td>—</td>
+      <td><a href="https://abdelrhmann1997.github.io/Template2/">Visit</a></td>
     </tr>
   </tbody>
 </table>
@@ -75,14 +75,11 @@
 <h3>📫 Where to find me</h3>
 
 <p>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/USERNAME">https://github.com/Abdelrhmann1997
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">https://www.linkedin.com/in/abdo-elrahman-mohmed-106849224/
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
